@@ -11,3 +11,8 @@ Fleeting Notes is the ultimate solution for quick, efficient, and secure note-ta
 - Bi-Directional Linking: Create a web of connected ideas. Our bi-directional linking feature allows for link previews and backlinks, making it easy to navigate and expand your notes.
 
 Whether you're a dedicated Obsidian user or looking for a powerful mobile note-taking tool, Fleeting Notes is designed to enhance your productivity and secure your data. Download Fleeting Notes today – experience the future of note-taking, made simple, efficient, and secure.
+![unnamed](https://github.com/user-attachments/assets/eee012ff-9fd3-4b00-b721-68eb1f9cfef5)
+
+![unnamed](https://github.com/user-attachments/assets/07172550-d8d5-40e5-a489-9ba0b9352dc2)
+
+![unnamed](https://github.com/user-attachments/assets/475dc60c-7fca-4c18-9108-1c10c25cb7d1)
